@@ -1,0 +1,15 @@
+F:\YURKO\SHAG\Project C#\27_31102021_Lab_WPF(Style, Resources, Triggers)_System Prog(Task)\Homework_Task\Homework_Task\bin\Debug\Homework_Task.exe.config
+F:\YURKO\SHAG\Project C#\27_31102021_Lab_WPF(Style, Resources, Triggers)_System Prog(Task)\Homework_Task\Homework_Task\bin\Debug\Homework_Task.exe
+F:\YURKO\SHAG\Project C#\27_31102021_Lab_WPF(Style, Resources, Triggers)_System Prog(Task)\Homework_Task\Homework_Task\bin\Debug\Homework_Task.pdb
+F:\YURKO\SHAG\Project C#\27_31102021_Lab_WPF(Style, Resources, Triggers)_System Prog(Task)\Homework_Task\Homework_Task\obj\Debug\Homework_Task.csprojAssemblyReference.cache
+F:\YURKO\SHAG\Project C#\27_31102021_Lab_WPF(Style, Resources, Triggers)_System Prog(Task)\Homework_Task\Homework_Task\obj\Debug\MainWindow.g.cs
+F:\YURKO\SHAG\Project C#\27_31102021_Lab_WPF(Style, Resources, Triggers)_System Prog(Task)\Homework_Task\Homework_Task\obj\Debug\App.g.cs
+F:\YURKO\SHAG\Project C#\27_31102021_Lab_WPF(Style, Resources, Triggers)_System Prog(Task)\Homework_Task\Homework_Task\obj\Debug\Homework_Task_MarkupCompile.cache
+F:\YURKO\SHAG\Project C#\27_31102021_Lab_WPF(Style, Resources, Triggers)_System Prog(Task)\Homework_Task\Homework_Task\obj\Debug\Homework_Task_MarkupCompile.lref
+F:\YURKO\SHAG\Project C#\27_31102021_Lab_WPF(Style, Resources, Triggers)_System Prog(Task)\Homework_Task\Homework_Task\obj\Debug\MainWindow.baml
+F:\YURKO\SHAG\Project C#\27_31102021_Lab_WPF(Style, Resources, Triggers)_System Prog(Task)\Homework_Task\Homework_Task\obj\Debug\Homework_Task.g.resources
+F:\YURKO\SHAG\Project C#\27_31102021_Lab_WPF(Style, Resources, Triggers)_System Prog(Task)\Homework_Task\Homework_Task\obj\Debug\Homework_Task.Properties.Resources.resources
+F:\YURKO\SHAG\Project C#\27_31102021_Lab_WPF(Style, Resources, Triggers)_System Prog(Task)\Homework_Task\Homework_Task\obj\Debug\Homework_Task.csproj.GenerateResource.cache
+F:\YURKO\SHAG\Project C#\27_31102021_Lab_WPF(Style, Resources, Triggers)_System Prog(Task)\Homework_Task\Homework_Task\obj\Debug\Homework_Task.csproj.CoreCompileInputs.cache
+F:\YURKO\SHAG\Project C#\27_31102021_Lab_WPF(Style, Resources, Triggers)_System Prog(Task)\Homework_Task\Homework_Task\obj\Debug\Homework_Task.exe
+F:\YURKO\SHAG\Project C#\27_31102021_Lab_WPF(Style, Resources, Triggers)_System Prog(Task)\Homework_Task\Homework_Task\obj\Debug\Homework_Task.pdb

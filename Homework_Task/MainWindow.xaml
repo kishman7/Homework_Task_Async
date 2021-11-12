@@ -1,0 +1,56 @@
+﻿<Window x:Class="Homework_Task.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Homework_Task"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <StackPanel Orientation="Vertical">
+        <Grid>
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="*"/>
+                <ColumnDefinition Width="*"/>
+            </Grid.ColumnDefinitions>
+            <Label Content="Введіть текст" Margin="10 0"/>
+            <Button Grid.Column="1" x:Name="btnClear" Content="Очистити" Margin="10 5" Width="200"
+                   HorizontalAlignment="Right" Click="btnClear_Click" />
+        </Grid>
+        <TextBox x:Name="tb" Height="250" AcceptsReturn="True"
+                 ScrollViewer.HorizontalScrollBarVisibility="Auto"
+                 ScrollViewer.VerticalScrollBarVisibility="Auto"/>
+        <Button Width="200" Margin="0 5" Click="Button_Click">Рахувати</Button>
+        <Grid Height="110">
+            <Grid.RowDefinitions>
+                <RowDefinition Height="*"/>
+                <RowDefinition Height="*"/>
+                <RowDefinition Height="*"/>
+            </Grid.RowDefinitions>
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="17*"/>
+                <ColumnDefinition Width="16*"/>
+            </Grid.ColumnDefinitions>
+            <Label Content="Кількість символів" Width="150" VerticalAlignment="Center"
+                   HorizontalAlignment="Right" Margin="20 0" VerticalContentAlignment="Center"
+                   HorizontalContentAlignment="Right"/>
+            <Label Grid.Row="1" Content="Кількість слів" Width="150" VerticalAlignment="Center"
+                   HorizontalAlignment="Right" Margin="20 0" VerticalContentAlignment="Center"
+                   HorizontalContentAlignment="Right"/>
+            <Label Grid.Row="2" Content="Кількість речень" Width="150" VerticalAlignment="Center"
+                   HorizontalAlignment="Right" Margin="20 0" VerticalContentAlignment="Center"
+                   HorizontalContentAlignment="Right"/>
+            <Border Grid.Column="1" Margin="2" BorderBrush="Black" BorderThickness="1" Width="85"
+                    VerticalAlignment="Center" HorizontalAlignment="Left">
+                <TextBlock x:Name="textBlock1"/>
+            </Border>
+            <Border Grid.Row="1" Grid.Column="1" Margin="2" BorderBrush="Black" BorderThickness="1" Width="85"
+                    VerticalAlignment="Center" HorizontalAlignment="Left">
+                <TextBlock x:Name="textBlock2"/>
+            </Border>
+            <Border Grid.Row="2" Grid.Column="1" Margin="2" BorderBrush="Black" BorderThickness="1" Width="85"
+                    VerticalAlignment="Center" HorizontalAlignment="Left">
+                <TextBlock x:Name="textBlock3"/>
+            </Border>
+        </Grid>
+    </StackPanel>
+</Window>
